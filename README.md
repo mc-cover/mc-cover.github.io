@@ -1,1 +1,1 @@
-# mc_cover.github.io
+# mc-cover.github.io
