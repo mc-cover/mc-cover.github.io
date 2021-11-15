@@ -4,7 +4,7 @@ title: "About"
 
 ### Team Members 
 
-Clarissa Boyajian (cboyajian@bren.ucsb.edu) Clarissa is a certified arborist with experience using urban forestry tree canopy coverage in project and grant management. 
+- [Clarissa Boyajian] (https://github.com/cboyajian) Clarissa is a certified arborist with experience using urban forestry tree canopy coverage in project and grant management. 
 
 Allie Cole (icole@bren.ucsb.edu) Allie has spent a large amount of time working in and around mangrove ecosystems, and has a degree in marine science. She is currently working with Spatial Analysis tools at UCSB. 
 
