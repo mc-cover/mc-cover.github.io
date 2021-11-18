@@ -1,7 +1,5 @@
 ---
-title: "Welcome"
-author: "Clarissa Boyajian"
-date: "11/10/2021"
+title: "mc-cover's Mangrove Canopy Coverage at Cacheu Park Mangrove Forest"
 output: html_document
 ---
 
@@ -9,6 +7,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hello, Website!
+Welcome to our group project website! 
+
+To learn more about our spatial analysis project and team, please visit the ["About" page.](https://mc-cover.github.io/about.html)
+
+![](images/mangroves.jpg)
 
 
