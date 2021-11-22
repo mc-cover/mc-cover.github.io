@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Team Workflow"
+      href: team-workflow.html
   source_url: https://github.com/mc-cover/mc-cover.github.io
 output_dir: "."
 base_url: https://mc-cover.github.io 
